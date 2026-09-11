@@ -22,7 +22,7 @@ current_movie_index = None
 
 
 def get_movie_title(movie_row):
-    """التحقق التلقائي من اسم العمود الذي يحتوي على عنوان الفيلم"""
+    
     possible_columns = [
         "Name",
         "Title",
